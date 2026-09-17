@@ -90,7 +90,7 @@ To confirm the vulnerability was neutralized, the original data exfiltration com
 ![Attack Blocked by Firewall](detection_engineering/unauthorized-message-after-storage-container-hardening.png)
 
 
-Thank you for reading! 
+View the medium blog ![here](https://medium.com/@devjoel880/how-i-built-broke-my-own-azure-cloud-to-prove-what-happens-when-identity-gets-stolen-c6d769e1ab86) 
 
 ---
 
