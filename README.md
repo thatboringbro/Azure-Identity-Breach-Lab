@@ -86,9 +86,11 @@ To simulate an immediate incident response action without VNet integration, the 
 
 ### 5. Verifying the Mitigation
 To confirm the vulnerability was neutralized, the original data exfiltration command was re-executed from the external terminal using a freshly generated, valid OAuth token. The request was successfully blocked at the network edge, returning a `403 AuthorizationFailure` error, proving the effectiveness of the IP restriction.
+
 ![Attack Blocked by Firewall](detection_engineering/unauthorized-message-after-storage-container-hardening.png)
 
 
+Thank you for reading! 
 
 ---
 
@@ -96,4 +98,4 @@ To confirm the vulnerability was neutralized, the original data exfiltration com
 For collaborations or questions related to this project, please feel free to reach me via:
 
 * X (formerly twitter): [@thatboringbro](https://x.com/thatboringbro)
-* LinkedIn: [Gbolahanv Joel Adeoye](https://www.linkedin.com/in/gbolahan-joel-adeoye-0551bb2a1/)
+* LinkedIn: [Gbolahan Joel Adeoye](https://www.linkedin.com/in/gbolahan-joel-adeoye-0551bb2a1/)
